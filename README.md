@@ -45,3 +45,11 @@ To replicate the findings and execute the code in this notebook you will need ba
 - Matplotlib
 - SciKit-Learn
 - [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/Python-Intro.html) 
+
+## Notebook
+
+This report consist of three parts.
+
+- Notebook1 : EDA
+- Notebook2 : Preprocessing (feature engineering)
+- Notebook3 : Modelling
