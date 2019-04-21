@@ -13,9 +13,8 @@ In this competition, the goal is to predict if a machine will soon be hit with m
 
 
 
-
 ## Data
-There are two dataset. one is train and the other is test. We have to predict a Windows machine’s probability of getting infected by various families of malware, based on different properties of that machine. To do this, Microsoft give us data containing these properties and the machine infections and the data collected by Microsoft's Windows Defender.
+There are two dataset. one is train and the other is test. We have to predict a Windows machine’s probability of getting infected by various families of malware, based on different properties of that machine. To do this, Microsoft give us data containing these properties and the machine infections and the data are collected by Microsoft's Windows Defender.
 
 
 ## Problems of Microsoft Malware Prediction 
