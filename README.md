@@ -19,8 +19,9 @@ There are two dataset. one is train and the other is test. We have to predict a 
 
 ## Problems of Microsoft Malware Prediction 
 
-#### 1. Removing features which depend on time
-The data is timeseries data. The train data are mostly form August and Septemer 2018 while the test are mostly from October and November 2018. As they have different timestamp, my goal is to bulid a time independent model.
+#### 1. Handling features which depend on time
+The data is timeseries data. The train data are mostly form August and Septemer 2018 while the test are mostly from October and November 2018. Because they have different timestamp, version based features which depend on time can have a bad influence on our model. So I need to treat them carefully.
+
 
 #### 2. Dealing with categorical features
 There are more than 90% of categorical features in data. I dealt with these features using various encoding method as shown below. 
