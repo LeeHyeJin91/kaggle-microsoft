@@ -33,7 +33,7 @@ There are more than 90% of categorical features in data. I dealt with these feat
    * Target Encode
 
 #### 3. Large dataset
-The size of this data is very large (train: 4.08GB, test: 3.53GB). So I need to manage memory efficiently.
+The size of data is very large (train: 4.08GB, test: 3.53GB). So I need to manage memory efficiently and try to apply online learning method. 
 
 
 
